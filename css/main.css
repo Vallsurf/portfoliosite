@@ -1942,6 +1942,22 @@ nav a:hover {
   padding: 50px 0;
 }
 
+.Contact {
+  padding: 50px;
+}
+
+.Contact h4{
+  
+  color: red;
+}
+
+.Contact a{
+  font-size: 20px;
+  color:black;
+}
+
+
+
 .primary-btn {
   line-height: 42px;
   padding-left: 30px;
@@ -2078,6 +2094,22 @@ nav a:hover {
   
 }
 
+.project-image img{
+  box-shadow: -2px 4px 20px 2px rgba(0,0,0,0.3);
+}
+
+.img-2{
+  
+  margin-left: 60px;
+  margin-top: -200px;
+}
+
+.img-2-alt{
+  
+  margin-left: -20px;
+  margin-top: -200px;
+}
+
 @media (max-width: 575px) {
   .studio-area .studio-content {
     margin-top: 30px;
@@ -2134,27 +2166,48 @@ nav a:hover {
     font-size: 26px;
   }
 
-  
+  .project-image {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 
 }
 
-@media (max-width: 991px) {
-  .studio-area .studio-content:after {
-    width: 50px;
+@media (max-width: 995px) {
+  .img-2{
+  
+    margin-left: 60px;
+    margin-top: -100px;
   }
+  
+  .img-2-alt{
+    
+    margin-left: -20px;
+    margin-top: -100px;
+  }
+
 }
 
 @media (max-width: 575px) {
-  .studio-area .studio-content:after {
-    display: none;
+
+
+
+  .img-2{
+  
+    margin-left: 20px;
+    margin-top: -100px;
   }
+  
+  .img-2-alt{
+    
+    margin-left: -10px;
+    margin-top: -200px;
+  }
+
 }
 
-@media (max-width: 991px) {
-  .studio-area .studio-content {
-    padding: 30px 30px 30px 0;
-  }
-}
+
+
 
 @media (max-width: 1199px) {
   .default-header {
