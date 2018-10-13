@@ -1908,7 +1908,7 @@ nav a:hover {
 }
 
 .dup-body-wrap {
-  box-shadow: 7px 7px 15px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 7px 7px 15px 5px rgba(0, 0, 0, 0.2);
   margin: 50px;
   position: relative;
 }
