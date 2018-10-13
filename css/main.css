@@ -1908,7 +1908,7 @@ nav a:hover {
 }
 
 .dup-body-wrap {
-  box-shadow: 7px 7px 15px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 6px 16px 49px -11px rgba(0,0,0,0.35);
   margin: 50px;
   position: relative;
 }
@@ -1949,7 +1949,7 @@ nav a:hover {
   margin: 0 auto;
   width: 50%;
   border: 1px;
-  box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 6px 16px 49px -11px rgba(0,0,0,0.2);
 }
 
 
@@ -2098,7 +2098,7 @@ nav a:hover {
   padding: 35px 100px 40px 40px;
   
   
-  box-shadow: 3px 5px 10px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 6px 16px 49px -11px rgba(0,0,0,0.1);
   margin: 10px;
   
 }
@@ -2180,6 +2180,15 @@ nav a:hover {
     margin-top: 30px;
     margin-bottom: 30px;
   }
+
+  .Contact h4, h5 {
+    font-size: 14px;
+  }
+
+  .Contact a {
+    font-size: 14px;
+  }
+
 
 }
 
