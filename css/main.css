@@ -2240,6 +2240,10 @@ nav a:hover {
     padding: 30px;
     border-radius: 5px;
   }
+
+  .Contact{
+    width: 80%;
+  }
 }
 
 
